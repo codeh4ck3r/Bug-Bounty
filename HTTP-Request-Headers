@@ -71,3 +71,5 @@ X-Sakura-Forwarded-For:
 X-Wap-Network-Client-Ip: 
 Xxx-Real-Ip: 
 X-ProxyUser-Ip: 
+X-Gateway-Host: 
+X-Backend-Host: 
